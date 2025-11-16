@@ -1,0 +1,2 @@
+my-chesshacks-bot/src/weights/*.pt filter=lfs diff=lfs merge=lfs -text
+my-chesshacks-bot/src/weights/*.txt filter=lfs diff=lfs merge=lfs -text
