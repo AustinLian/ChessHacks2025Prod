@@ -4,3 +4,7 @@ venv
 .env.local
 .env
 devtools
+.venv/
+__pycache__/
+node_modules/
+.next/
